@@ -1,4 +1,4 @@
-# ai-math-tutor-project# AI Math Tutor Project
+# AI Math Tutor Project
 
 This project demonstrates evaluating and improving AI-generated solutions to competition math problems.
 
